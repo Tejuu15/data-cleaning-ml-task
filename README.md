@@ -1,2 +1,6 @@
-# data-cleaning-ml-task
-ML Data Cleaning Assignment
+data-cleaning-ml-task
+│
+├── data_cleaning.ipynb
+├── titanic.csv
+├── cleaned_data.csv
+└── README.md
